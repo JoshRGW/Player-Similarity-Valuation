@@ -28,7 +28,7 @@ This project integrates **K-Means Clustering** and **Random Forest Regression** 
 - **Random Forest Regressor For Valuation.py**: Contains the code for predicting player market value using Random Forest Regression.
 
 ### Report
-- **S267562.docx**: A detailed report on the methodologies, models, and results used in this project.
+- **S267562.pdf**: A detailed report on the methodologies, models, and results used in this project.
 
 ## Prerequisites
 
