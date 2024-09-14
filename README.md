@@ -1,2 +1,2 @@
-# Player-Similarity-Valuation
+# Player-Similarity-and-Valuation
 Project: MODELLING PLAYER SIMILARITY AND VALUATION FOR ENHANCED SCOUTING AND RECRUITMENT IN FOOTBALL
