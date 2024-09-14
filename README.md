@@ -24,11 +24,15 @@ This project integrates **K-Means Clustering** and **Random Forest Regression** 
 ## Files
 
 ### Python Scripts
-- **K Means Model for Player Similarity.py**: Contains the code for clustering players based on performance metrics.
-- **Random Forest Regressor For Valuation.py**: Contains the code for predicting player market value using Random Forest Regression.
+- `K Means Model for Player Similarity.py`: Contains the code for clustering players based on performance metrics.
+- `Random Forest Regressor For Valuation.py`: Contains the code for predicting player market value using Random Forest Regression.
+
+- ### Jupyter Notebooks
+- `K Means Model for Player Similarity.ipynb`: Interactive notebook for running and visualising player similarity clustering.
+- `Random Forest Regressor For Valuation.ipynb`: Interactive notebook for running and visualising the player valuation model.
 
 ### Report
-- **S267562.pdf**: A detailed report on the methodologies, models, and results used in this project.
+- `S267562.pdf`: A detailed report on the methodologies, models, and results used in this project.
 
 ## Prerequisites
 
@@ -40,11 +44,11 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ## How to Use
 
-1. **Player Similarity Model**: Run `K Means Model for Player Similarity.py` to cluster football players based on their performance attributes.
+1. **Player Similarity Model**: Run `K Means Model for Player Similarity.py` or use the notebook `K Means Model for Player Similarity.ipynb` to cluster football players based on their performance attributes.
    - Input: Player statistics dataset (e.g., from FM).
    - Output: Clusters of similar players.
    
-2. **Player Valuation Model**: Run `Random Forest Regressor For Valuation.py` to estimate player market values.
+2. **Player Valuation Model**: Run `Random Forest Regressor For Valuation.py` or use the notebook `Random Forest Regressor For Valuation.ipynb` to estimate player market values.
    - Input: Player data (age, contract, wage, etc.).
    - Output: Predicted market value for each player.
 
